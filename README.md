@@ -1,4 +1,5 @@
-# MS2CNN
+# new web site @ https://github.com/changlabtw/MS2CNN
+
 Predicting MS/MS spectrum based on protein sequence by Deep Convolutional Neural Networks
 
 Prerequisites
